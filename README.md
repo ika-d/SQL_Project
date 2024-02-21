@@ -1,4 +1,3 @@
-# SQL_Projects
+Hello there!
 
-
-I have used SQL to analyze real-world datasets and utilized the insights to build dynamic Excel dashboards.
+Here I try to showcase my SQL skills by documenting the projects that I completed using real world datasets.
